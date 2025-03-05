@@ -1,0 +1,2 @@
+//carcass
+console.log("perish")
